@@ -9,16 +9,18 @@ You've been hired by the Wang Restaurant Group to create a website that will gen
 
 As your project manager, I've added basic lists of dishes, demonyms, and ingredients, and I will probably add to these lists in the future.
 
+[HIGHLY RELEVANT VIDEO](http://www.youtube.com/watch?v=7rypxTYTB5I) (not really, but kinda really)
+
 FAQ
 ============
-How do I build a web application? 
+##### How do I build a web application? 
 I would suggest using Flask (Python) or Sinatra (Ruby) and checking out the tutorials/quickstarts for those projects.
 
-Why can't I use Django/Rails/Node.js/<insert framework here>?
+##### Why can't I use Django/Rails/Node.js/<insert framework here>?
 This project should be very small, so a micro framework that doesn't get in the way of the basic concepts seems to be most preferable. Also, you already know Python, so it should be easiest to get started in something that already uses Python (Flask), or a similar language such as Ruby (Sinatra).
 
-What if I think this project is stupid?
-Well, an alternate idea would be a technobabble generator (like http://www.smbc-comics.com/?id=2526). Would you like that better?
+##### What if I think this project is stupid?
+Well, an alternate idea would be a technobabble generator (like [this](http://www.smbc-comics.com/?id=2526)). Would you like that better?
 
-Does the website need to be pretty?
+##### Does the website need to be pretty?
 Yes, what are we, animals? Plus, you're interested in design aren't you?
